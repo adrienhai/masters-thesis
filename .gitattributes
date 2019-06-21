@@ -1,1 +1,3 @@
+*.log linguist-vendored
+*.bbl linguist-vendored
 *.tex linguist-vendored
