@@ -1,7 +1,7 @@
 # master-thesis
 MCMC Algorithms for Bayesian inference in the context of Big Data : Comparison and assessment of five recent algorithms.
 
-- You can find the pdf at https://github.com/adrienhai/master-thesis/LaTeX/main.pdf
+- You can find the pdf at https://adrienhai.github.io/thesis.pdf
 
 - You can find the implementations of the algorithms in the 'code' folder : 
 
