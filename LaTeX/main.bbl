@@ -1,0 +1,111 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Bardenet et~al.}{2017}]{bardenet2017markov}
+Bardenet, R., Doucet, A., and Holmes, C. (2017).
+\newblock On markov chain monte carlo methods for tall data.
+\newblock {\em The Journal of Machine Learning Research}, 18(1):1515--1557.
+
+\bibitem[\protect\astroncite{Bouchard-C{\^o}t{\'e}
+  et~al.}{2017}]{bouchard2017bouncy}
+Bouchard-C{\^o}t{\'e}, A., Vollmer, S.~J., and Doucet, A. (2017).
+\newblock The bouncy particle sampler: A non-reversible rejection-free markov
+  chain monte carlo method.
+\newblock {\em Journal of the American Statistical Association},
+  (just-accepted).
+
+\bibitem[\protect\astroncite{Ceperley and Dewing}{1999}]{ceperley1999penalty}
+Ceperley, D. and Dewing, M. (1999).
+\newblock The penalty method for random walks with uncertain energies.
+\newblock {\em The Journal of chemical physics}, 110(20):9812--9820.
+
+\bibitem[\protect\astroncite{Geweke}{2004}]{geweke2004getting}
+Geweke, J. (2004).
+\newblock Getting it right: Joint distribution tests of posterior simulators.
+\newblock {\em Journal of the American Statistical Association},
+  99(467):799--804.
+
+\bibitem[\protect\astroncite{Hellinger}{1909}]{hellinger1909neue}
+Hellinger, E. (1909).
+\newblock Neue begr{\"u}ndung der theorie quadratischer formen von
+  unendlichvielen ver{\"a}nderlichen.
+\newblock {\em Journal f{\"u}r die reine und angewandte Mathematik},
+  136:210--271.
+
+\bibitem[\protect\astroncite{Jain et~al.}{2018}]{jain2018variational}
+Jain, A., Srijith, P., and Desai, S. (2018).
+\newblock Variational inference as an alternative to mcmc for parameter
+  estimation and model selection.
+\newblock {\em arXiv preprint arXiv:1803.06473}.
+
+\bibitem[\protect\astroncite{Kolmogorov}{1933}]{kolmogorov1933sulla}
+Kolmogorov, A. (1933).
+\newblock Sulla determinazione empirica di una lgge di distribuzione.
+\newblock {\em Inst. Ital. Attuari, Giorn.}, 4:83--91.
+
+\bibitem[\protect\astroncite{Korattikara
+  et~al.}{2014}]{korattikara2014austerity}
+Korattikara, A., Chen, Y., and Welling, M. (2014).
+\newblock Austerity in mcmc land: Cutting the metropolis-hastings budget.
+\newblock In {\em International Conference on Machine Learning}, pages
+  181--189.
+
+\bibitem[\protect\astroncite{Le~Cam and Yang}{2012}]{le2012asymptotics}
+Le~Cam, L. and Yang, G.~L. (2012).
+\newblock {\em Asymptotics in statistics: some basic concepts}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[\protect\astroncite{Metropolis et~al.}{1953}]{metropolis1953equation}
+Metropolis, N., Rosenbluth, A.~W., Rosenbluth, M.~N., Teller, A.~H., and
+  Teller, E. (1953).
+\newblock Equation of state calculations by fast computing machines.
+\newblock {\em The journal of chemical physics}, 21(6):1087--1092.
+
+\bibitem[\protect\astroncite{Minka}{2001}]{minka2001expectation}
+Minka, T.~P. (2001).
+\newblock Expectation propagation for approximate bayesian inference.
+\newblock In {\em Proceedings of the Seventeenth conference on Uncertainty in
+  artificial intelligence}, pages 362--369. Morgan Kaufmann Publishers Inc.
+
+\bibitem[\protect\astroncite{Neiswanger
+  et~al.}{2013}]{neiswanger2013asymptotically}
+Neiswanger, W., Wang, C., and Xing, E. (2013).
+\newblock Asymptotically exact, embarrassingly parallel mcmc.
+\newblock {\em arXiv preprint arXiv:1311.4780}.
+
+\bibitem[\protect\astroncite{Nicholls et~al.}{2012}]{nicholls2012coupled}
+Nicholls, G.~K., Fox, C., and Watt, A.~M. (2012).
+\newblock Coupled mcmc with a randomized acceptance probability.
+\newblock {\em arXiv preprint arXiv:1205.6857}.
+
+\bibitem[\protect\astroncite{Quiroz et~al.}{2018}]{quiroz2018speeding}
+Quiroz, M., Kohn, R., Villani, M., and Tran, M.-N. (2018).
+\newblock Speeding up mcmc by efficient data subsampling.
+\newblock {\em Journal of the American Statistical Association},
+  (just-accepted):1--35.
+
+\bibitem[\protect\astroncite{Roberts and Rosenthal}{1998}]{roberts1998optimal}
+Roberts, G.~O. and Rosenthal, J.~S. (1998).
+\newblock Optimal scaling of discrete approximations to langevin diffusions.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 60(1):255--268.
+
+\bibitem[\protect\astroncite{Scott et~al.}{2016}]{scott2016bayes}
+Scott, S.~L., Blocker, A.~W., Bonassi, F.~V., Chipman, H.~A., George, E.~I.,
+  and McCulloch, R.~E. (2016).
+\newblock Bayes and big data: The consensus monte carlo algorithm.
+\newblock {\em International Journal of Management Science and Engineering
+  Management}, 11(2):78--88.
+
+\bibitem[\protect\astroncite{Talts et~al.}{2018}]{talts2018validating}
+Talts, S., Betancourt, M., Simpson, D., Vehtari, A., and Gelman, A. (2018).
+\newblock Validating bayesian inference algorithms with simulation-based
+  calibration.
+\newblock {\em arXiv preprint arXiv:1804.06788}.
+
+\bibitem[\protect\astroncite{Welling and Teh}{2011}]{welling2011bayesian}
+Welling, M. and Teh, Y.~W. (2011).
+\newblock Bayesian learning via stochastic gradient langevin dynamics.
+\newblock In {\em Proceedings of the 28th International Conference on Machine
+  Learning (ICML-11)}, pages 681--688.
+
+\end{thebibliography}

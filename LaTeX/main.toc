@@ -1,0 +1,55 @@
+\select@language {english}
+\contentsline {chapter}{Introduction}{2}
+\contentsline {chapter}{\numberline {1}Algorithms}{5}
+\contentsline {section}{\numberline {1.1}Approximate Metropolis-Hastings Test (ApMHT)}{5}
+\contentsline {section}{\numberline {1.2}Stochastic Gradient Langevin Dynamics (SGLD)}{14}
+\contentsline {section}{\numberline {1.3}Consensus Monte-Carlo}{17}
+\contentsline {section}{\numberline {1.4}Asymptotically exact sampling via non-parametric density product estimation}{21}
+\contentsline {section}{\numberline {1.5}Pseudo-Marginal MCMC}{28}
+\contentsline {subsection}{\numberline {1.5.1}General setting}{28}
+\contentsline {subsection}{\numberline {1.5.2}Choice of control variates $q_i(\theta )$'s}{32}
+\contentsline {chapter}{\numberline {2}Experiments}{35}
+\contentsline {section}{\numberline {2.1}Methodology}{35}
+\contentsline {subsection}{\numberline {2.1.1}Accuracy of the algorithms}{35}
+\contentsline {subsection}{\numberline {2.1.2}Efficiency of the algorithms}{36}
+\contentsline {subsection}{\numberline {2.1.3}Convergence of the algorithms}{38}
+\contentsline {section}{\numberline {2.2}Test data set - Normal posterior}{41}
+\contentsline {subsection}{\numberline {2.2.1}Data Generating Process}{41}
+\contentsline {subsection}{\numberline {2.2.2}Results}{41}
+\contentsline {section}{\numberline {2.3}Bimodal - High variance}{45}
+\contentsline {subsection}{\numberline {2.3.1}Data Generating Process}{45}
+\contentsline {subsection}{\numberline {2.3.2}Results}{46}
+\contentsline {section}{\numberline {2.4}Bimodal - Low variance}{49}
+\contentsline {subsection}{\numberline {2.4.1}Data Generating Process}{49}
+\contentsline {subsection}{\numberline {2.4.2}Results}{50}
+\contentsline {section}{\numberline {2.5}High-dimensional logistic regression}{53}
+\contentsline {subsection}{\numberline {2.5.1}Data Generating Process}{53}
+\contentsline {subsection}{\numberline {2.5.2}Results}{54}
+\contentsline {chapter}{Conclusions and future work}{58}
+\contentsline {section}{Conclusions}{58}
+\contentsline {section}{Future work}{60}
+\contentsline {chapter}{Appendix}{65}
+\contentsline {chapter}{\numberline {A}Miscellaneous}{66}
+\contentsline {section}{\numberline {A.1}Proof of theorem \ref {th:1} by \cite {korattikara2014austerity}}{66}
+\contentsline {section}{\numberline {A.2}Derivation of the Gradient and Hessian matrix for GLM by \cite {quiroz2018speeding}}{67}
+\contentsline {chapter}{\numberline {B}R code}{69}
+\contentsline {section}{\numberline {B.1}Libraries}{70}
+\contentsline {section}{\numberline {B.2}DGP 1 : Test data - Normal Model}{70}
+\contentsline {subsection}{\numberline {B.2.1}Parameters}{70}
+\contentsline {subsection}{\numberline {B.2.2}DGP and model functions}{70}
+\contentsline {section}{\numberline {B.3}DGP 2 : Bimodal - High Variance}{71}
+\contentsline {subsection}{\numberline {B.3.1}Parameters}{71}
+\contentsline {subsection}{\numberline {B.3.2}DGP and model functions}{71}
+\contentsline {section}{\numberline {B.4}DGP 3 : Bimodal - Low variance}{72}
+\contentsline {subsection}{\numberline {B.4.1}Parameters}{72}
+\contentsline {subsection}{\numberline {B.4.2}DGP and model functions}{72}
+\contentsline {section}{\numberline {B.5}DGP 4 : High-dimensional logistic regression}{73}
+\contentsline {subsection}{\numberline {B.5.1}Parameters}{73}
+\contentsline {subsection}{\numberline {B.5.2}DGP and model functions}{73}
+\contentsline {section}{\numberline {B.6}Algorithm APMHT}{75}
+\contentsline {section}{\numberline {B.7}Pseudo-marginal algorithm}{79}
+\contentsline {subsection}{\numberline {B.7.1}Pre-conditioning of the data set}{79}
+\contentsline {subsection}{\numberline {B.7.2}Function}{81}
+\contentsline {section}{\numberline {B.8}SGLD}{85}
+\contentsline {section}{\numberline {B.9}Consensus Monte-Carlo}{87}
+\contentsline {section}{\numberline {B.10}NPDPE}{91}
